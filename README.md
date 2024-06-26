@@ -4,7 +4,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently a life long learner 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me on linkedin https://www.linkedin.com/in/komi-sergio-hognaglo
+- 📫 How to reach me on linkedin [manasse](https://www.linkedin.com/in/komi-sergio-hognaglo)
 
 
 <!---
