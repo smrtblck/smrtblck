@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @YoUrW1zArD
+- 👋 Hi, I’m @manasse
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently a life long learner 
 - 💞️ I’m looking to collaborate on Projects
