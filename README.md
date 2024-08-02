@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @Sergio aka 0x1337s
+- 👋 Hi, I’m @Sergio aka manasse
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently a life long learner 
 - 💞️ I’m looking to collaborate on Projects
