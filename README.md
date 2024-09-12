@@ -1,13 +1,9 @@
 
+### Hi there 👋
 
-- 👋 Hi, I’m @manasse
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently a life long learner 
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me on linkedin [manasse](https://www.linkedin.com/in/komi-sergio-hognaglo)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mnsse&show_icons=true&hide_border=true" />
 
+#### 💡 Talk to me about
+- Offensive Security
+- Defensive Security
 
-<!---
-YoUrW1zArD/YoUrW1zArD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
