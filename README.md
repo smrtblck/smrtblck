@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-#### 💡 Talk to me about
+#### 💡 Talk to me about :
 
-Cyber Security 
+- Cyber Security 
 
